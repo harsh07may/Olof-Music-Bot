@@ -48,19 +48,19 @@ Currently available locales are:
 
 ## 📝 Features & Commands
 
-> Note: The default prefix is '/'
+> Note: The default prefix is '!'
 
 * 🎶 Using YouTube Url
 
-`/play https://www.youtube.com/c/Vevo`
+`!play https://www.youtube.com/c/Vevo`
 
 * 🔎 Playing music via Name
 
-`/play FatRat Fire`
+`!play FatRat Fire`
 
 * 🔎 Search and play
 
-`/search Imperial March Trap Remix by Goblins from Mars`
+`!search Imperial March Trap Remix by Goblins from Mars`
 
 Get repo here - 
 https://github.com/harsh07may/Olof-Music-Bot
