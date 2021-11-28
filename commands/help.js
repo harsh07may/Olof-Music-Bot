@@ -27,7 +27,7 @@ module.exports = {
         true
       );
     });
-    helpEmbed.addField(`**Links!**`, `**[Free Hentai](${support_server || "https://swichan.github.io/"}) • [Invite](https://discord.com/oauth2/authorize?client_id=${message.client.user.id}&permissions=70282305&scope=bot)**`)
+    helpEmbed.addField(`**Links!**`, `**[Support Server](${support_server || ""}) • [Invite](https://discord.com/oauth2/authorize?client_id=${message.client.user.id}&permissions=70282305&scope=bot)**`)
 
     helpEmbed.setTimestamp();
 
