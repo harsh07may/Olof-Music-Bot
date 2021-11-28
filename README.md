@@ -62,5 +62,5 @@ Currently available locales are:
 
 `/search Imperial March Trap Remix by Goblins from Mars`
 
-Get evobot repo here - 
+Get repo here - 
 https://github.com/harsh07may/Olof-Music-Bot
